@@ -1,0 +1,14 @@
+/* Empty. Add your own CSS if you like */
+.row-image {
+  background-color: grey;
+  background-image: url('data:image/jpeg;base64,/9j/4Q3nRXhpZgAATU0AKgAAAAgABwESAAMAAAABAAEAAAEaAAU…7r3v3Xuve/de697917r3v3Xuve/de697917r3v3Xuve/de697917r3v3Xuve/de697917r//Z');
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-position: center center;
+  background-size: cover;
+  display: inline-block;
+  vertical-align: top;
+  width: 53px;
+  height: 53px;
+  /*margin: 24px 12px;*/
+}

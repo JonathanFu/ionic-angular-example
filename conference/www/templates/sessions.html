@@ -1,0 +1,10 @@
+<ion-view view-title="Sessions">
+  <ion-content>
+    <ion-list>
+      <ion-item ng-repeat="session in sessions" href="#/app/sessions/{{session.id}}">
+        <div class="row-image" style="background-image: url({{session.icon}})"></div>
+        <p>{{session.speaker}}</p>
+      </ion-item>
+    </ion-list>
+  </ion-content>
+</ion-view>
